@@ -1,4 +1,4 @@
-# Para trabalhar com essa automação, foi necessário importar essas bibliotecas
+
 
 import pyautogui
 import pyperclip
