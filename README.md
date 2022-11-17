@@ -2,8 +2,6 @@
 
 Aqui voce encontra os seguintes projeots em Python:
 
-Calculadra;
-Automatização de Tarefas:
-Análise de Dados;
+Calculadra, Automatização de tarefas, Análise de Dados
 
 
