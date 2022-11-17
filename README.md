@@ -1,2 +1,3 @@
 # Projetos em Python
-Nessa pasta, constam os meus projeos em Python
+
+Aqui voce encontra meus projetos em Python
